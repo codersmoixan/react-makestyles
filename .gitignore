@@ -1,0 +1,20 @@
+# Don't check auto-generated stuff into git
+dist
+node_modules
+stats.json
+yarn.lock
+\yarn.lock
+# Cruft
+.idea
+.bitmap
+.rollup.cache
+bundle-stats.html
+
+\.npmrc
+
+yarn-error\.log
+\.env
+\package-lock.json
+
+#vscode config
+.vscode
